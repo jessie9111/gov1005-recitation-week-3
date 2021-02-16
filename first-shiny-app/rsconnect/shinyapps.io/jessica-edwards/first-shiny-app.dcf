@@ -1,0 +1,12 @@
+name: first-shiny-app
+title: first-shiny-app
+username:
+account: jessica-edwards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3645673
+bundleId: 4230600
+url: https://jessica-edwards.shinyapps.io/first-shiny-app/
+when: 1613492732.45638
+asMultiple: FALSE
+asStatic: FALSE

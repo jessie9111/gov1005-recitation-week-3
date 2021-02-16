@@ -1,0 +1,18 @@
+---
+title: "Reprex"
+author: "Jessica Edwards"
+date: "2/16/2021"
+output: html_document
+---
+
+```{r reprex, include=FALSE}
+# install.packages("reprex")
+library(reprex)
+```
+
+```{r}
+library(tidyverse)
+
+cars %>%
+  filter(sped < 6)
+```
